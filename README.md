@@ -3,7 +3,7 @@ IP address quick config tools for commissioning Engineer
 
 ----------------------------------------
 
-![image]((https://github.com/cnybh/ipconfigtool/blob/main/LOGO.png))
+![image](https://github.com/cnybh/ipconfigtool/blob/main/LOGO.png?raw=true)
 
 ------
 
